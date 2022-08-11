@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-sqlite3",
+  "version": "1.0.0",
+  "description": "simple nodejs and sqlite3 project",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rodrigo Centurion",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.0.11"
+  }
+}
